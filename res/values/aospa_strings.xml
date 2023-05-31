@@ -354,17 +354,17 @@
     <string name="brightness_slider_style_default">Default</string>
     <string name="brightness_slider_style_filled">Filled</string>
     <string name="brightness_slider_style_thin">Thin</string>
-    
+
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negotiated charger max current and voltage and battery temperature on lockscreen while charging</string>
-    
+
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">In-call vibration</string>
     <string name="incall_vibrate_connect_title">Vibrate on connect</string>
     <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
     <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    
+
     <!-- Cloudflare DNS Option -->
     <string name="private_dns_mode_cloudflare" translatable="false">Cloudflare DNS</string>
     <!-- Cloudflare DNS hostname -->
@@ -389,5 +389,10 @@
     <string name="private_dns_mode_quad9" translatable="false">Quad9 DNS</string>
     <!-- Quad9 DNS hostname -->
     <string name="private_dns_hostname_quad9" translatable="false">dns.quad9.net</string>
+
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+    <string name="search_apps">Search Apps</string>
 
 </resources>
