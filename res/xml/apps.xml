@@ -80,6 +80,12 @@
         <intent android:action="android.settings.MANAGE_CLONED_APPS_SETTINGS"/>
     </Preference>
 
+    <!-- App lock -->
+    <com.android.settingslib.RestrictedPreference
+        android:key="app_lock"
+        android:title="@string/app_lock_title"
+        android:order="-994" />
+
     <Preference
         android:key="game_settings"
         android:title="@string/game_space_title"
