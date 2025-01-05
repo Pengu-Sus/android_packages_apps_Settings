@@ -275,7 +275,7 @@
     <string name="pattern_da_dzzz_da" translatable="false">da-dzzz-da</string>
 
     <!-- penguin Lab -->
-    <string name="penguin_lab_title">PenguinOS Laboratory</string>
+    <string name="penguin_lab_title">Suspicious Laboratory</string>
     <string name="penguin_lab_footer">These features are experimental.</string>
     <string name="penguin_lab_summary">Experimental features</string>
 
